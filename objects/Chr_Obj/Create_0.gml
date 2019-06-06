@@ -1,6 +1,5 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 6849BE79
-/// @DnDArgument : "expr" "1"
+/// @DnDHash : 468521AC
 /// @DnDArgument : "var" "IsCol"
-IsCol = 1;
+IsCol = 0;

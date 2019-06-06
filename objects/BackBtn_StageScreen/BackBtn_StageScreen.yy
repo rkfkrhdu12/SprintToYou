@@ -1,18 +1,18 @@
 {
-    "id": "c5a25ae8-44d6-418c-93e8-7a3b5db7f9fc",
+    "id": "d7b3de4c-efc8-4ca2-80b8-c39cf9ae3eeb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "BackBtn",
+    "name": "BackBtn_StageScreen",
     "eventList": [
         {
-            "id": "71b9be2c-7bfa-4abe-8e17-493d89c9a62b",
+            "id": "57c1591f-4e6f-41c5-9d17-99dc2c8150b3",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 6,
-            "m_owner": "c5a25ae8-44d6-418c-93e8-7a3b5db7f9fc"
+            "m_owner": "d7b3de4c-efc8-4ca2-80b8-c39cf9ae3eeb"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

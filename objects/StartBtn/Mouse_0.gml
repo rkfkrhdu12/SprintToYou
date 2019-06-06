@@ -14,9 +14,9 @@ if(RoomCode == 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 187723DD
 	/// @DnDParent : 42BF4F30
-	/// @DnDArgument : "room" "ModeRoom"
-	/// @DnDSaveInfo : "room" "562618a8-3ffc-45b7-b060-046350df0e7b"
-	room_goto(ModeRoom);
+	/// @DnDArgument : "room" "ContinuousModeRoom"
+	/// @DnDSaveInfo : "room" "663e4ba6-2ebe-4e3d-871a-d5b4b489b984"
+	room_goto(ContinuousModeRoom);
 }
 
 /// @DnDAction : YoYo Games.Common.Else
@@ -28,7 +28,7 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 5F7482D5
 	/// @DnDParent : 721A7BC4
-	/// @DnDArgument : "room" "PlayRoom"
+	/// @DnDArgument : "room" "Stage01"
 	/// @DnDSaveInfo : "room" "2ba0b769-7b90-4f58-ad04-fcda2b926010"
-	room_goto(PlayRoom);
+	room_goto(Stage01);
 }
