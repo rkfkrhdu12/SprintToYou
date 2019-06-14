@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "28ad02fa-6f41-4cfa-92ab-1dff3c317435",
+            "Value": {
+                "id": "6995ec90-df7e-43c9-ab77-69f0a64ad3c8",
+                "resourcePath": "objects\\MotorcycleDown_Obj\\MotorcycleDown_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "28c2c2f3-9898-4dc7-8673-32a0a5c26bcc",
             "Value": {
                 "id": "e6c4fd48-b9a4-43fd-8a6c-af5c635f5a10",
@@ -130,7 +138,7 @@
             "Key": "28c358d9-65eb-493b-8dbf-f15bcb422d3e",
             "Value": {
                 "id": "4b4072ff-31e4-410d-a4ea-beb882fda67b",
-                "resourcePath": "objects\\Motorcycle_Obj\\Motorcycle_Obj.yy",
+                "resourcePath": "objects\\MotorcycleLeft_Obj\\MotorcycleLeft_Obj.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -188,6 +196,14 @@
                 "id": "d83b4b86-c8ad-44e9-b4f8-8cf088054c6a",
                 "resourcePath": "views\\32c72df9-410b-4f77-a0c6-0b8a1b7a738d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "36344863-ebae-447c-9027-d466c73f7961",
+            "Value": {
+                "id": "3bfed017-618b-4aa8-9776-a281e13c831f",
+                "resourcePath": "objects\\Hard_2_Col_obj\\Hard_2_Col_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -279,6 +295,14 @@
             }
         },
         {
+            "Key": "574fdbf0-363c-4aa0-b38e-aef6509475d3",
+            "Value": {
+                "id": "b38da9c0-4e02-4ee2-af36-bc69f43a2b0f",
+                "resourcePath": "sprites\\MotorcycleLeft_spt\\MotorcycleLeft_spt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5bfe6d5d-18f0-4173-b76d-67a11a9e02a6",
             "Value": {
                 "id": "f8b04bf6-12a9-49b6-9dae-c8f0c9780c01",
@@ -290,7 +314,7 @@
             "Key": "5e062c61-7ec6-46b4-a074-89f351afc187",
             "Value": {
                 "id": "f699102c-f663-494d-ba98-219113dc1539",
-                "resourcePath": "sprites\\Motorcycle_spt\\Motorcycle_spt.yy",
+                "resourcePath": "sprites\\MotorcycleRight_spt\\MotorcycleRight_spt.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -431,6 +455,22 @@
             }
         },
         {
+            "Key": "8bdec99f-6063-42fc-a9e5-88c551bddfed",
+            "Value": {
+                "id": "3f48fde9-db63-4f51-956c-4b5c7f920831",
+                "resourcePath": "sprites\\MotorcycleDown_spt\\MotorcycleDown_spt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8c3622a3-5287-486d-ae08-8b6f86a2afce",
+            "Value": {
+                "id": "e65ae641-64b6-4fe5-b95e-84103072340e",
+                "resourcePath": "sprites\\MotorcycleBack_spt\\MotorcycleBack_spt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "5967667f-0e20-44d9-b3ee-eca63bd5137e",
@@ -471,11 +511,27 @@
             }
         },
         {
+            "Key": "a2053453-ed80-4f17-9d02-2e695f6ce6f2",
+            "Value": {
+                "id": "83ee9b2e-b527-4241-b95b-2c7572c485a6",
+                "resourcePath": "rooms\\Normal02\\Normal02.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a226f385-fd00-4cef-a9c2-7f96810ed3eb",
             "Value": {
                 "id": "dbeea1c9-9637-49ef-8595-6647eee56d02",
                 "resourcePath": "views\\a226f385-fd00-4cef-a9c2-7f96810ed3eb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a33bf7a0-21a2-4a3f-ac4b-61a2b8b3a832",
+            "Value": {
+                "id": "de2860aa-9201-48a3-8517-42353bd21f4d",
+                "resourcePath": "rooms\\Stage02\\Stage02.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -500,6 +556,14 @@
                 "id": "eeb6ac6c-062d-4727-8ccb-9f49015413ab",
                 "resourcePath": "sprites\\sNextStage\\sNextStage.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aafb9281-4009-43b9-ba92-e929ebe9c708",
+            "Value": {
+                "id": "6fba5ec1-d77e-4aab-b29f-179c573cf8cf",
+                "resourcePath": "rooms\\Normal01\\Normal01.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -540,6 +604,14 @@
                 "id": "b2e3f35c-a127-431a-8210-b0db526cef48",
                 "resourcePath": "views\\b84280b8-f8a2-44f4-b63a-cf7126d5a55a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ba4bd149-037e-4dc0-9179-c7206eff6bb7",
+            "Value": {
+                "id": "fc5efc78-d211-4e2f-a0c1-abf34c43bfda",
+                "resourcePath": "objects\\MotorcycleRight_Normal2_Obj\\MotorcycleRight_Normal2_Obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {

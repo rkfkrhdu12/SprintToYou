@@ -28,7 +28,7 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 5F7482D5
 	/// @DnDParent : 721A7BC4
-	/// @DnDArgument : "room" "Stage01"
-	/// @DnDSaveInfo : "room" "2ba0b769-7b90-4f58-ad04-fcda2b926010"
-	room_goto(Stage01);
+	/// @DnDArgument : "room" "Normal02"
+	/// @DnDSaveInfo : "room" "a2053453-ed80-4f17-9d02-2e695f6ce6f2"
+	room_goto(Normal02);
 }

@@ -2,7 +2,7 @@
 {
     "name": "Stage01",
     "id": "2ba0b769-7b90-4f58-ad04-fcda2b926010",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
@@ -244,7 +244,7 @@
     },
     "roomSettings":     {
         "id": "a83d416d-37d0-44c4-af5a-beeb349d2c04",
-        "Height": 768,
+        "Height": 600,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,

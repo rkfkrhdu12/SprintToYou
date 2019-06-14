@@ -3,7 +3,7 @@
 /// @DnDHash : 1938475C
 /// @DnDArgument : "x" "0"
 /// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "10"
+/// @DnDArgument : "y" "4"
 /// @DnDArgument : "y_relative" "1"
 x += 0;
-y += 10;
+y += 4;
