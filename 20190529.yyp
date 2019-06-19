@@ -162,7 +162,7 @@
             "Key": "2ba0b769-7b90-4f58-ad04-fcda2b926010",
             "Value": {
                 "id": "273f0b98-8478-4ad1-a721-13c75af05e32",
-                "resourcePath": "rooms\\Stage01\\Stage01.yy",
+                "resourcePath": "rooms\\Hard01\\Hard01.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -530,7 +530,7 @@
             "Key": "a33bf7a0-21a2-4a3f-ac4b-61a2b8b3a832",
             "Value": {
                 "id": "de2860aa-9201-48a3-8517-42353bd21f4d",
-                "resourcePath": "rooms\\Stage02\\Stage02.yy",
+                "resourcePath": "rooms\\Hard02\\Hard02.yy",
                 "resourceType": "GMRoom"
             }
         },

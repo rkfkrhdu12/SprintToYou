@@ -8,6 +8,12 @@
 x += 0;
 y += 0;
 
+/// @DnDAction : YoYo Games.Rooms.Get_Current_Room
+/// @DnDVersion : 1
+/// @DnDHash : 35ACA3EF
+/// @DnDArgument : "var" "global.Deathroom"
+global.Deathroom = room;
+
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 23767EFD

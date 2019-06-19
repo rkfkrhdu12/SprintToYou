@@ -28,7 +28,7 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 5F7482D5
 	/// @DnDParent : 721A7BC4
-	/// @DnDArgument : "room" "Normal02"
-	/// @DnDSaveInfo : "room" "a2053453-ed80-4f17-9d02-2e695f6ce6f2"
-	room_goto(Normal02);
+	/// @DnDArgument : "room" "Normal01"
+	/// @DnDSaveInfo : "room" "aafb9281-4009-43b9-ba92-e929ebe9c708"
+	room_goto(Normal01);
 }
