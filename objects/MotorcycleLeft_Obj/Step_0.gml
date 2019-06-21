@@ -9,11 +9,11 @@ if(RoomChk == Normal01)
 	/// @DnDVersion : 1
 	/// @DnDHash : 1669E547
 	/// @DnDParent : 1B3E7352
-	/// @DnDArgument : "x" "-7"
+	/// @DnDArgument : "x" "-4"
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y" "0"
 	/// @DnDArgument : "y_relative" "1"
-	x += -7;
+	x += -4;
 	y += 0;
 }
 
@@ -28,11 +28,11 @@ if(RoomChk == Hard01)
 	/// @DnDVersion : 1
 	/// @DnDHash : 0D1CEA62
 	/// @DnDParent : 7F49DBFE
-	/// @DnDArgument : "x" "-4.5"
+	/// @DnDArgument : "x" "-3.5"
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y" "0"
 	/// @DnDArgument : "y_relative" "1"
-	x += -4.5;
+	x += -3.5;
 	y += 0;
 }
 
@@ -45,10 +45,10 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 1FD61D12
 	/// @DnDParent : 05DCAF8A
-	/// @DnDArgument : "x" "-15"
+	/// @DnDArgument : "x" "-8"
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y" "0"
 	/// @DnDArgument : "y_relative" "1"
-	x += -15;
+	x += -8;
 	y += 0;
 }

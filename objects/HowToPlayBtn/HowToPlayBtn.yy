@@ -1,10 +1,19 @@
 {
-    "id": "c6bf6f75-3c45-493b-8ed3-b62169c6a0e5",
+    "id": "8d037e03-f54f-4910-a43b-9db53bcdc723",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "CreditMember_obj",
+    "name": "HowToPlayBtn",
     "eventList": [
-        
+        {
+            "id": "1660b88c-2d98-4160-a937-4554ab66c586",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "8d037e03-f54f-4910-a43b-9db53bcdc723"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "413deae7-9a95-492c-8c6e-f5b086ac093c",
+    "spriteId": "5eb507ca-eb52-4c5c-859f-8ecd9f41136f",
     "visible": true
 }
